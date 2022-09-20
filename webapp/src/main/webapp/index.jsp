@@ -34,7 +34,7 @@
    <h1>Thank you</h1>
    <br>
    <h1>Happy learning</h1>
-	<h5>my name is what</h5>
+   <h5>lorem ipsum dolor sit amet</h5>
 
   
 </form>
